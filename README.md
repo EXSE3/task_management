@@ -1,3 +1,2 @@
 Procedure 
 take go
-hy
